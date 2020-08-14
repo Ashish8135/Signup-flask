@@ -1,46 +1,47 @@
 body{
-    background-color: blue;
+    background-color:white;
     margin:0;
 }
 .login-box{
     height: 50%;
-    width: 30%;
+    width: 35%;
     border: 1px solid grey;
-    margin-left: ;
-    margin-top: ;
+    margin-left: 35%;
+    margin-top: 10%;
     position: relative;
-    box-shadow: ;
-    background:;
+    margin-bottom: 10%;
+    box-shadow: 21px  12px 24px 10px rgba(0,0,0,.5);
+    background:#dadada;
 }
 .login-header{
-    text-align: ;
-    font-family: ;
-    font-size: ;
-    background: ;
-    color: ;
+    text-align: center;
+    font-family: arial;
+    font-size: 35px;
+    background: linear-gradient(to bottom, #00fff 0%,#0000ff 100%);
+    color: #00fff;
     position:relative;
-    box-shadow: ;
+    box-shadow: 1px 3px 14px rgba(0,0,0,.5);
 }
 .login-body{
     padding: 20px;
     line-height: 2;
 }
-.msg{
-    color: ;
-    background-color: ;
-    padding: ;
-    margin-bottom: ;
-    border: ;
-    border-radius: ;
+#msg{
+    color:#27ae60 ;
+    background-color: solid grey;
+    padding: .75rem 1.25rem;
+    margin-bottom:1rem ;
+    border:1px solid transparent ;
+    border-radius:.25rem ;
 }
 
 
 
-.site-header{
+/*.site-header{
     background-color: rgba(0,0,0,0.85);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
 }
 .site-header a{
     color: #ffffff;
-}
+}*/

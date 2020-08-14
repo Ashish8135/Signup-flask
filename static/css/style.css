@@ -1,0 +1,46 @@
+body{
+    background-color: blue;
+    margin:0;
+}
+.login-box{
+    height: 50%;
+    width: 30%;
+    border: 1px solid grey;
+    margin-left: ;
+    margin-top: ;
+    position: relative;
+    box-shadow: ;
+    background:;
+}
+.login-header{
+    text-align: ;
+    font-family: ;
+    font-size: ;
+    background: ;
+    color: ;
+    position:relative;
+    box-shadow: ;
+}
+.login-body{
+    padding: 20px;
+    line-height: 2;
+}
+.msg{
+    color: ;
+    background-color: ;
+    padding: ;
+    margin-bottom: ;
+    border: ;
+    border-radius: ;
+}
+
+
+
+.site-header{
+    background-color: rgba(0,0,0,0.85);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+}
+.site-header a{
+    color: #ffffff;
+}
